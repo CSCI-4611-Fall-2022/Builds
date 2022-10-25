@@ -4,6 +4,8 @@
 
 **Assignment 3:** [Earthquake Visualization](https://csci-4611-fall-2022.github.io/Builds/Assignment-3)
 
+**Assignment 4:** [So You Think Ants Can Dance](https://csci-4611-fall-2022.github.io/Builds/Assignment-4)
+
 
 
 Material for [CSCI 4611 Fall 2022](https://csci-4611-fall-2022.github.io) by [Evan Suma Rosenberg](https://illusioneering.umn.edu/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
