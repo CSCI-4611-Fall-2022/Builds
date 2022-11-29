@@ -8,7 +8,7 @@
 
 **Assignment 5:** [Artistic Rendering](https://csci-4611-fall-2022.github.io/Builds/Assignment-5)
 
-**Assignment 6:** [A World of Drawings](https://csci-4611-fall-2022.github.io/Builds/Assignment-6)
+**Assignment 6:** [A World Made of Drawings](https://csci-4611-fall-2022.github.io/Builds/Assignment-6)
 
 
 
